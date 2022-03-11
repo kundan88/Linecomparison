@@ -1,6 +1,6 @@
 ﻿
 //UC1
-
+Console.WriteLine(   );
 Console.WriteLine("Welcome to the Line comparison");
 Console.WriteLine("enter x1 value : ");
 var x1 = Convert.ToDouble(Console.ReadLine());
